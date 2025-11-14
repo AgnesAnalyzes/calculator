@@ -11,7 +11,7 @@ Polly can perform the following operations:
 
 - **Addition** (`+`)
 - **Subtraction** (`-`)
-- **Multiplication** (`*`)
+- **Multiplication** (`*`) 
 - **Division** (`/`)
 - **Integer division** (`//`)
 - **Modulo** (`%`)
